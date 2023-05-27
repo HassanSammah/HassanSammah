@@ -13,15 +13,11 @@ You can click the Preview link to take a look at your changes.
 
 ## Languages
 
-- ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) HTML5
-- ![CSS3](https://img.icons8.com/color/48/000000/css3.png) CSS3
-- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
+- ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) HTML5 - ![CSS3](https://img.icons8.com/color/48/000000/css3.png) CSS3 - ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
 
 ## Frameworks and Libraries
 
-- ![React](https://img.icons8.com/color/48/000000/react-native.png) React
-- ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) Node.js
-- ![Express.js](https://img.icons8.com/color/48/000000/express.png) Express.js
+- ![React](https://img.icons8.com/color/48/000000/react-native.png) React - ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) Node.js - ![Express.js](https://img.icons8.com/color/48/000000/express.png) Express.js
 
 ## Databases
 
@@ -36,15 +32,8 @@ You can click the Preview link to take a look at your changes.
 ## Deployment
 
 - ![Heroku](https://img.icons8.com/color/48/000000/heroku.png) Heroku
-- ![Netlify](https://img.icons8.com/fluent/48/000000/netlify.png) Netlify
 
 ## Project Management
 
 - ![Trello](https://img.icons8.com/color/48/000000/trello.png) Trello
 - ![Jira](https://img.icons8.com/color/48/000000/jira.png) Jira
-
-## Statistics
-
-![Your Tech Stack](https://www.example.com/stats/tech-stack.png)
-
-
