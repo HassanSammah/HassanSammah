@@ -13,11 +13,11 @@ You can click the Preview link to take a look at your changes.
 
 ## Languages
 
-- ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) HTML5 - ![CSS3](https://img.icons8.com/color/48/000000/css3.png) CSS3 - ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
+- ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) HTML5  ![CSS3](https://img.icons8.com/color/48/000000/css3.png) CSS3  ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
 
 ## Frameworks and Libraries
 
-- ![React](https://img.icons8.com/color/48/000000/react-native.png) React - ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) Node.js - ![Express.js](https://img.icons8.com/color/48/000000/express.png) Express.js
+- ![React](https://img.icons8.com/color/48/000000/react-native.png) React  ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) Node.js  ![Express.js](https://img.icons8.com/color/48/000000/express.png) Express.js
 
 ## Databases
 
