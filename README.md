@@ -13,7 +13,8 @@ You can click the Preview link to take a look at your changes.
 
 ## Languages
 
-![HTML5](https://img.icons8.com/color/48/000000/html-5.png)   ![CSS3](https://img.icons8.com/color/48/000000/css3.png)   ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) 
+![HTML5](https://img.icons8.com/color/48/000000/html-5.png) ![CSS3](https://img.icons8.com/color/48/000000/css3.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) ![PHP](https://img.icons8.com/color/48/000000/php.png) ![Kotlin](https://img.icons8.com/color/48/000000/kotlin.png) ![C](https://img.icons8.com/color/48/000000/c-programming.png) ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
+ 
 
 ## Frameworks and Libraries
 
